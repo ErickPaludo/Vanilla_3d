@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Escravo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d3b74126c70851a6eca8958cfdcc2c55970ca0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Escravo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Escravo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
